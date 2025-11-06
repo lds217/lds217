@@ -9,10 +9,17 @@
     <td style="width:45%; vertical-align:middle; padding-right:25px;">
       <h3>About me</h3>
       <p style="font-size:14px; line-height:1.4; text-align:justify;">
-        With over 4 years of experience in competitive programming, I’ve developed strong data structures, algorithms, and problem-solving skills that help me design efficient and scalable systems.
+        With over 4 years of experience in competitive programming,<br>
+        I’ve developed strong data structures, algorithms,<br>
+        and problem-solving skills that help me design<br>
+        efficient and scalable systems.
       </p>
       <p style="font-size:14px; line-height:1.4; text-align:justify;">
-        I’m passionate about backend development and machine learning, and I love building robust, data-driven solutions that combine system performance with intelligent automation.
+        I’m passionate about backend development<br>
+        and machine learning,<br>
+        and I love building robust, data-driven solutions<br>
+        that combine system performance<br>
+        with intelligent automation.
       </p>
     </td>
     <td style="width:55%; text-align:center;">
