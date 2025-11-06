@@ -4,8 +4,10 @@
 <table>
   <tr>
     <td style="width:50%; vertical-align:middle;">
-      <h3>HIHIHI</h3>
-      <p>This is your text on the left side of the figure. You can write more info here if you like.</p>
+      <h3>About me</h3>
+      <p>With over 4 years of experience in competitive programming, I’ve developed strong data structures, algorithms, and problem-solving skills that help me design efficient and scalable systems.
+
+I’m passionate about backend development and machine learning, and I love building robust, data-driven solutions that combine system performance with intelligent automation.</p>
     </td>
     <td style="width:50%;">
       <img src="https://raw.githubusercontent.com/lds217/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="Light Card" />
