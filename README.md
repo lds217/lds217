@@ -1,6 +1,12 @@
 <div align="center">
+  
 
+![Purdue](https://img.shields.io/badge/purdue%20university-%23CEB888?logo=purdue-university&logoColor=000000)
 <img src="https://raw.githubusercontent.com/lds217/cf-stats/main/output/max_rating.svg" alt="Max Rating" />
+![Vietnam](https://img.shields.io/badge/Vietnam%20⭐-%23DA251D?logoColor=yellow)
+
+
+
 
 ---
 
