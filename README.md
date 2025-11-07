@@ -30,7 +30,7 @@
       </p>
     </td>
     <td style="width:55%; text-align:center;">
-      <img src="https://raw.githubusercontent.com/lds217/cf-stats/main/output/light_card.svg"
+      <img src="https://raw.githubusercontent.com/lds217/cf-stats/main/output/light_card.svg#gh-dark-mode-only"
            alt="Light Card"
            style="max-width:100%; height:auto; border-radius:10px;" />
     </td>
