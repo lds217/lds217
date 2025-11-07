@@ -1,11 +1,12 @@
 <div align="center">
   
 
-![Purdue](https://img.shields.io/badge/purdue%20university-%23CEB888?logo=purdue-university&logoColor=000000)
-<img src="https://raw.githubusercontent.com/lds217/cf-stats/main/output/max_rating.svg" alt="Max Rating" />
-![Vietnam](https://img.shields.io/badge/Vietnam%20⭐-%23DA251D?logoColor=yellow)
+[![Purdue](https://img.shields.io/badge/purdue%20university-%23CEB888?logo=purdue-university&logoColor=000000)](https://www.purdue.edu)
+[![Vietnam](https://img.shields.io/badge/Vietnam%20⭐-%23DA251D?logoColor=yellow)](https://en.wikipedia.org/wiki/Vietnam)
 
-
+[![Resume](https://img.shields.io/badge/Resume-%23000000?logo=readthedocs&logoColor=white)](https://github.com/lds217/lds217/blob/master/resume.pdf)
+[![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/ldss)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ldss21/)
 
 
 ---
