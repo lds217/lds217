@@ -7,6 +7,7 @@
 [![Resume](https://img.shields.io/badge/Resume-%23000000?logo=readthedocs&logoColor=white)](https://github.com/lds217/lds217/blob/master/resume.pdf)
 [![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/ldss)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ldss21/)
+[![ICPC](https://img.shields.io/badge/ICPC-00529B?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTUgMTR2NGw3IDUgNy01di00TTEyIDExdjEyIiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIi8%2BPGVsbGlwc2UgY3g9IjUiIGN5PSI5IiByeD0iNCIgcnk9IjUiIGZpbGw9IiM0Mjg1ZjQiLz48ZWxsaXBzZSBjeD0iMTkiIGN5PSI5IiByeD0iNCIgcnk9IjUiIGZpbGw9IiNlYTQzMzUiLz48ZWxsaXBzZSBjeD0iMTIiIGN5PSI2IiByeD0iNCIgcnk9IjUiIGZpbGw9IiNmYmJjMDUiLz48L3N2Zz4%3D)](https://icpc.global/ICPCID/BKEQBK1O1WAW)
 
 
 ---
